@@ -1,7 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 import time
-
+print()
 
 #Observação: A execução do código requer Python, Matplotlib e NetworkX instalados.
 
