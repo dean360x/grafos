@@ -1,5 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
+print()
 
 #Observação: A execução do código requer Python, Matplotlib e NetworkX instalados.
 
