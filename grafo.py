@@ -1,6 +1,5 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-import time
 
 #Observação: A execução do código requer Python, Matplotlib e NetworkX instalados.
 
